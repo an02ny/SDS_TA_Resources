@@ -18,5 +18,5 @@ This repository contains notebooks, assignments, and resources designed to help 
    - [Notebook](./Hands_On_1/RNG_HandsOn1.ipynb)
 
 4. **Assignment: Data Cleaning**
-   - Practice cleaning messy datasets by handling missing values, removing duplicates, and visualising the data.
+   - Practice cleaning messy datasets by handling missing values and outliers, removing duplicates, and visualising the data.
    - [Assignment 1](./Assignments/Assignment_1.pdf)

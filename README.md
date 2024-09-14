@@ -1,4 +1,4 @@
-# Statistics for Data Science - Hands-on Sessions
+# Statistics-for-Data-Science-TA-Sessions
 
 This repository contains notebooks, assignments, and resources designed to help students practice the concepts covered in the course Statistics for Data Science.
 
